@@ -9,7 +9,7 @@
 Генерация изображений:
 - generator.py
   
-Генерация текстового файла:
+Генерация текстового файла (Mostly taken from https://github.com/NastyBoget/HandwritingGeneration):
 - text_file generator.ipynb
 - text_generator.py
 
